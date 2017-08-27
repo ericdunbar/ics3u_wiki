@@ -19,8 +19,8 @@ If you believe you can show your understanding of certain materials in another m
 * [Computer Hardware](./Computer-Hardware)
 * [Number Systems](./Number-Systems)
 * [Software Development Life Cycle and Flowcharting](./SDLC-and-Flowcharting)
-* [Tracing Techniques](./Tracing Techniques) - useful after starting programming
-* [Algorithm Design](./Algorithm Design) - useful after doing a few programming assignments
+* [Tracing Techniques](./Tracing-Techniques) - useful after starting programming
+* [Algorithm Design](./Algorithm-Design) - useful after doing a few programming assignments
 
 #### Programming Concepts
 * [Exercises (Set A)](./Processing-Exercise-Set-A) - useful before Assignment 1
