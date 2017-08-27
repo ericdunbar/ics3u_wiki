@@ -2,11 +2,11 @@
 
 ## Course information
 
-* [Course Outline](./administrative/Course-Overview)
+* [Course Outline](./Course-Overview)
 * [Overarching Learning Goals](./images/ICS3U.jpg)
-* [Due Dates and Submission Details](./administrative/Due-Dates-and-Submission-Details)
-* [Rules and Regulations of the classroom](./administrative/Rules-and-Regulations)
-* [Surveys](./administrative/Surveys)
+* [Due Dates and Submission Details](./Due-Dates-and-Submission-Details)
+* [Rules and Regulations of the classroom](./Rules-and-Regulations)
+* [Surveys](./Surveys)
 
 ## Assignments
 
@@ -23,9 +23,9 @@ If you believe you can show your understanding of certain materials in another m
 * [Algorithm Design]() - useful after doing a few programming assignments
 
 #### Programming Concepts
-* [Exercises (Set A)]() - useful before Assignment 1
-* [Exercises (Set B)]() - useful before Assignment 2
-* [Exercises (Set C)]() - useful before Assignment 3
+* [Exercises (Set A)](./Processing-Exercise-Set-A) - useful before Assignment 1
+* [Exercises (Set B)](./Processing-Exercise-Set-B) - useful before Assignment 2
+* [Exercises (Set C)](./Processing-Exercise-Set-C) - useful before Assignment 3
 * [Assignment 1]()
 * [Assignment 2]()
 * [Assignment 3]()
