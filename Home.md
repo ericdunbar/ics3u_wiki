@@ -2,11 +2,11 @@
 
 ## Course information
 
-* [Course Outline](./administrative/Course-Overview.md)
-* [Overarching Learning Goals](./images/ICS3U.png)
-* [Due Dates and Submission Details](./administrative/Due-Dates-and-Submission-Details.md)
-* [Rules and Regulations of the classroom](./administrative/Rules-and-Regulations.md)
-* [Surveys](./administrative/Surveys.md)
+* [Course Outline](./administrative/Course-Overview)
+* [Overarching Learning Goals](./images/ICS3U.jpg)
+* [Due Dates and Submission Details](./administrative/Due-Dates-and-Submission-Details)
+* [Rules and Regulations of the classroom](./administrative/Rules-and-Regulations)
+* [Surveys](./administrative/Surveys)
 
 ## Assignments
 
