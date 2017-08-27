@@ -1,51 +1,7 @@
+To be updated
 
-Task(s)
--------
-
-According to environmental resources, we are approaching the _Sixth Mass Extinction Event_ ([source][1], [source][2], [source][3], [source][4], [source][5], [source][6],) within the next 20-150 years (depending on source). Based on this information, complete the following task:
-
-__Individually__ contact someone at an environmental group that is outside the Mississauga area (yes, you are required to email/phone/etc. someone and must provide proof of contact).  From this contact, gather information about what they are doing to help the environment in relation to technological waste (e-waste).
-
-Using this information, and any information you have researched on your own, create an __opinion__ piece regarding whether you believe the group is doing enough to help sustain the environment for the next 100 years.  Your opinion piece can be in the form of:
-
-* a blog-like article (website, Markdown document, etc (excluding Word/Pages)), __or__
-* a podcast __or__
-* a video news piece
-
-No matter which method you choose, you will have to:
-
-* Cite your sources using either APA, MLA, or Chicago format
-* Justify your opinion
-
-
-### Criteria
-If you are creating a __written__ piece, you are to follow these criteria:
-
-* No longer than 800 words.
-* Include a descriptive title for your article
-
-If you are creating an __audio__ piece, you are to follow these criteria:
-
-* No shorter than 2 minutes, and no longer than 5 minutes.
-
-If you are creating a __video__ piece, you are to follow these criteria:
-
-* No shorter than 2 minutes, and no longer than 5 minutes.
-* Imagery to justify your opinion. 
-
-
-
-Submissables/Due Date(s)
+Old Rubric
 ------------------
-Your file(s) are due by 3pm on Friday, March 31st, 2017 (long timeline, high expectations)
-
-
-Rubric(s)
-------------------
-
-Your mark will be calculated as follows: __Mark = R * C__ where R is the value of the rubric, and C is whether you followed the criteria above. 
-
-Your opinion piece must include clear solutions to the rubric items below.
 
 | Expectation                              | R    | 1    | 2    | 3    | 4    |
 | ---------------------------------------- | ---- | ---- | ---- | ---- | ---- |

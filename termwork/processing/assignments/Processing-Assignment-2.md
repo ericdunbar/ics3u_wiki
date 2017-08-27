@@ -1,42 +1,35 @@
+To be updated
 
-Task(s)
--------
-You are to complete this task on your own (i.e. no group submissions, or no plagiarizing from each other (or internet), etc.)
+## Task(s)
+You are to complete this task on your own (i.e. no group submissions, or no plagiarizing from each other (or internet), etc.)  
 
-1.  Using your knowledge of programming and if statements _create an assignment that satisfies the rubric and criteria below_.
-2.  Create a flowchart of your program.
-
-You can use this old assignment as inspiration, but do not create an exact duplicate of the assignment.  The old assignment can be found in the ```OUT\Seidel\ICS3U\Processing\Assignment 1``` folder.  For context, at the time students were **only** allowed to use arcs for the moving shapes, and were **not** allowed to use ```translate()```, ```rotate()```, ```pushMatrix()```, or ```popMatrix()```.
+1. Using your knowledge of programming, if statements, functions, and loops _create an assignment that satisfies the learning goals and success criteria below_.  
+2. Create a flowchart of your program **before** starting on the work.  This must be shown to the teacher prior to work.
 
 
-Criteria
---------
+
+## Criteria
 Your program **does not** have:
   1. Flashing colours in it
   2. Similarity to exercises, or the given exemplar assignment.
 
 Your program **does** have:
-  1. A problem to solve. For example, you can have your program display and solve a mathematical problem (i.e. calculate the hypotenuse, calculate the area or circumference of a shape on the screen).
-  2. Properly named variables 
-  3. Colours that changes slowly depending on user controlled (or not controlled) factors
-  4. Uses if statements other than in ```mousePressed()``` or ```keyPressed()```
-  5. Your program fits to a maximum ```size(600, 600)```
-  6. Has user input and displays output based on that input (i.e. use of ```mousePressed()``` or ```keyPressed()```.
+  1. A different problem to solve than Assignment 1 (not just something you would see in math class this time around).  Since this will be a multi-screen program, you can solve different problems on each screen (if desired).
+  2. A multi-screen program (can click between them, or use the keyboard to swap between them)
+  3. One one screen, show your understanding of ```while()``` loops
+  4. On another screen, show your understanding of ```for()``` loops.
+  5. If you create more than 2 screens, you should be using them to demonstrate other learned concepts.
+  6. On at least one screen, show your understanding of **nested** loops (one inside the other).
+  7. Your program fits to a maximum ```size(600, 600)```
+  8. Has user input and displays output based on that input (i.e. use of ```mousePressed()``` or ```keyPressed()```.
 
 
-
-Submissables
-------------
+## Submissables
 Hand in a copy of your work to the IN drive; however, be prepared to have your work marked at your seat.
 
 
-Due Date(s)
-----------
-Marking will begin at the beginning of class on April 10th.
+## Old Rubric(s)
 
-
-Rubric(s)
----------
 |                                          | R    | 1    | 2    | 3    | 4    |
 | ---------------------------------------- | ---- | ---- | ---- | ---- | ---- |
 | **A1: demonstrate the ability to use different data types in computer programs;** |      |      |      |      |      |
@@ -46,10 +39,13 @@ Rubric(s)
 | **A2: demonstrate the ability to use control structures (if statements) and simple algorithms in computer programs** |      |      |      |      |      |
 | A2.1: Incorporates useful keyboard or mouse-driven inputs and displays an appropriate output |      |      |      |      |      |
 | A2.2: Proper use of if statements        |      |      |      |      |      |
+| A2.2: Proper use of looping structures   |      |      |      |      |      |
+|                                          |      |      |      |      |      |
+| A2.3: Write an algorithm with nested structures |      |      |      |      |      |
 | **A4: use proper code maintenance techniques and conventions when creating computer programs** |      |      |      |      |      |
 | A4.1: Identify and correct syntax, logic, and run-time errors |      |      |      |      |      |
-| A4.2: Use workplace conventions (naming, indenting, etc.) |      |      |      |      |      |
-| A4.3: Interpret error messages           |      |      |      |      |      |
+| A4.2: Use workplace conventions (naming, commenting, indenting, etc.) |      |      |      |      |      |
+| A4.3: Demonstrate the ability to interpret error messages |      |      |      |      |      |
 | **B1: use a variety of problem-solving strategies to solve different types of problems independently** |      |      |      |      |      |
 | B1.2: Demonstrate ability to solve the problem independently |      |      |      |      |      |
 | **B2: design software solutions to meet a variety of challenges** |      |      |      |      |      |
