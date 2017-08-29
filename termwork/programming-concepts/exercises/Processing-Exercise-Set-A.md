@@ -2,7 +2,7 @@
 
 For all of these exercises, do **not** hand them in, just ensure your teacher sees the work, and that you can communicate your understanding of the work related to the learning goals.
 
-It is highly suggested that you complete these 5 exercises **prior** to attempting [Processing - Assignment 1]()
+It is highly suggested that you complete these 5 exercises **prior** to attempting [Processing - Assignment 1](Processing-Assignment-1)
 
 ## Exercise 1
 _Estimated time to complete: 2-3 classes_
