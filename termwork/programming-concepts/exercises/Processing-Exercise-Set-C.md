@@ -10,3 +10,24 @@ It is highly suggested that you complete these 2 exercises **prior** to attempti
 
 ## Exercise 10
 To be determined.
+
+
+## Learning Goals and Success Criteria
+
+The [Overarching Learning Goal](./images/ICS2O.jpg) for this is _Programming Concepts_.
+The specific Learning Goal(s) for this include:
+  * We are learning to design and organize a computer program.
+  * We are learning to create simple computer programs.
+
+
+| Success Criteria for <br/> _We are learning to design and organize a computer program_ | Met | Not Met | Learning and Improvement Comments |
+| ----------- | --- | ------ | ------- |
+| I can use workplace and professional conventions correctly to write programs and internal documentation | | | |
+| I can interpret error messages at different times during the software development process | | | |
+
+| Success Criteria for <br/> _We are learning to create computer programs_ | Met | Not Met | Learning and Improvement Comments |
+| ----------- | --- | ------ | ------- |
+| I can describe the structure and related concepts for one-dimensional arrays  | | | |
+| I can write programs that declare, initialize, modify, and access one-dimensional arrays  | | | |
+| I can write custom subprograms that use parameter passing and appropriate scope to perform specific tasks in a program  | | | |
+| I can work independently using support documentation to write functioning computer programs | | | |
