@@ -7,7 +7,7 @@ This is a multi-step assignment, take your time to ensure you are completing the
 ### Task 1 (Emerging Technology)
 Choose an [emerging technology](http://en.wikipedia.org/wiki/List_of_emerging_technologies) (first-come-first-served **teacher-approval required**).  Ensure that you choose something that relates to computer science in some way.
 
-### Task 3 (Collaborative Research Field)
+### Task 2 (Collaborative Research Field)
 Based on your choice of emerging technology, complete research to determine which fields of study (e.g. bioinformatics, climatology, economics, geology, health informatics, linguistics, sociology, etc.) had to collaborate with computer science in order to develop the product.
 
 For example, if someone were to choose _Speech Recognition_ as their emerging technology, a field of study that could collaborate with them is linguistics.  In linguistics, interpreters could be invaluable for ensuring language translation is recognized in the _Speech Recognition_ emerging technology. (Speech Recognition is not an emerging field anymore, and cannot therefore be chosen as your topic.)
