@@ -3,7 +3,7 @@
 * [Overarching Learning Goals](./images/ICS3U.jpg)
 * [Due Dates and Submission Details](./Due-Dates-and-Submission-Details)
 * [Mr. Seidel's Intro Survey](https://goo.gl/forms/eWq7jPTqtYOku4S32) - requires your school Google account.
-* [Mr. Kowalczewski's Intro Survey](https://forms.gle/xShJLS1gtSBeJadA8) - requires your school Google account.
+* [Mr. Kowalczewski's Intro Survey](https://forms.gle/5jyrysTZoU4qdQ9Z7) - requires your school Google account.
 
 ## Assignments
 #### &#x1F4D9; Projects and Algorithms:
