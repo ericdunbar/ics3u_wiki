@@ -1,3 +1,6 @@
+## **UPDATES**
+The course material will update slightly due to the changed nature of how the course is being delivered.  All updates should be completed by Monday, April 6th, 2020 in preparation for the course to continue.
+
 ## Course information
 * [Course Outline](./Course-Overview)
 * [Overarching Learning Goals](./images/ICS3U.jpg)
