@@ -1,5 +1,5 @@
 ## **UPDATES**
-The course material will update slightly due to the changed nature of how the course is being delivered.  All updates should be completed by Monday, April 6th, 2020 in preparation for the course to continue.
+Keep an eye on the [main page](./Home) of this Wiki for course updates.
 
 ## Course information
 * [Course Outline](./Course-Overview)
