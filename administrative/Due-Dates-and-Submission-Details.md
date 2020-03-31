@@ -6,14 +6,14 @@ It is **your** responsibility to hand things in on time, and you will **not** be
 | Assignment                                                                    | Semester 2                         |
 | ----------------------------------------------------------------------------- | ---------------------------------- |
 | &#x1F4D9; [Software Development Life Cycle/Flowcharting](./SDLC)              | ~~February 14 @ 11:59PM~~ <br/> Changed due to labour action. <br/> February 18th @ beginning of class. |
-| &#x1F4D8; [Python - Assignment 1](./Python-Assignment-1)                      | March 13 @ 11:59PM                 |
-| &#x1F4D7; [Computer Hardware](./Computer-Hardware) (Presentation)             | Presentations begin March 25       |
-| &#x1F4D7; [Computer Hardware](#) (Individual)            					    | April 9 @ 11:59PM                  |
-| &#x1F4D7; [Collaborative Emerging Technologies](./Collaborative-Emerging-Technologies) | Presentations begin May 4 | 
-| &#x1F4D8; [Python - Assignment 2](./Python-Assignment-2)                      | May 22 @ 11:59PM                   |
-| &#x1F4D9; [Problem Solving and Algorithms](./Problem-Solving-and-Algorithms)  | May 29 @ ???????	      			 |
-| &#x1F4D7; **[Culminating - Digital Scholar](./Culminating-(Digital-Scholar))**| June 8, 9, and 10                  |
-| &#x1F4D9; &#x1F4D8; **[Exam - Problem Solving, SDLC, and Programming](#)**    | During exam period                 |
+| &#x1F4D8; [Python - Assignment 1](./Python-Assignment-1)                      | March 13 @ 11:59PM                  |
+| &#x1F4D7; [Computer Hardware](./Computer-Hardware) (Shared Google Slide)      | Submissions due by April 8          |
+| &#x1F4D7; [Computer Hardware](#) (Individual)            			| April 17 @ 11:59PM                  |
+| &#x1F4D7; [Collaborative Emerging Technologies](./Collaborative-Emerging-Technologies) | Presentations due by May 1?? | 
+| &#x1F4D8; [Python - Assignment 2](./Python-Assignment-2)                      | May 22 @ 11:59PM??                  |
+| &#x1F4D9; [Problem Solving and Algorithms](./Problem-Solving-and-Algorithms)  | ???????		              |
+| &#x1F4D7; **[Culminating - Digital Scholar](./Culminating-(Digital-Scholar))**| June 8, 9, and 10                   |
+| &#x1F4D9; &#x1F4D8; **[Exam - Problem Solving, SDLC, and Programming](#)**    | During exam period                  |
 
 
 # Submission Details
