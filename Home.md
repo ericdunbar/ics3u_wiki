@@ -19,15 +19,15 @@ If you believe you can show your understanding of certain materials in another m
 
 #### &#x1F4D9; Projects and Algorithms:
 * [Software Development Life Cycle](./SDLC)
-* [Problem Solving and Algorithms](./Problem-Solving-and-Algorithms)
+* [Problem Solving and Algorithms](./Problem-Solving-and-Algorithms) - needs updating
 
 #### &#x1F4D8; Programming Concepts
 * [Python - Assignment 1](./Python-Assignment-1)
-* [Python - Assignment 2](./Python-Assignment-2)
+* [Python - Assignment 2](./Python-Assignment-2) - needs updating
 
 #### &#x1F4D7; Digital Scholar
-* [Computer Hardware](./Computer-Hardware)
-* [Collaborative Emerging Technologies](./Collaborative-Emerging-Technologies)
+* [Computer Hardware](./Computer-Hardware) - needs updating
+* [Collaborative Emerging Technologies](./Collaborative-Emerging-Technologies) - needs updating
 
 
 ## Notes
