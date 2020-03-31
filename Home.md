@@ -7,6 +7,9 @@
 * [Mr. Seidel's Intro Survey](https://goo.gl/forms/eWq7jPTqtYOku4S32) - requires your school Google account.
 * [Mr. Kowalczewski's Intro Survey](https://forms.gle/5jyrysTZoU4qdQ9Z7) - requires your school Google account.
 
+## **UPDATE - March 31, 2020**
+The course material will update slightly due to the changed nature of how the course is being delivered.  All updates should be completed by Monday, April 6th, 2020 in preparation for the course to continue.
+
 ## Assignments
 
 This section will contain links to all of the course assignments.  They are grouped by Overarching Learning Goal (OLG).  Be aware that within each OLG, the material is in a suggested chronological order for completing the work to ease your understanding of the materials.  
