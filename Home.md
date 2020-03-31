@@ -2,15 +2,15 @@
 
 ## **UPDATES (last updated March 31, 2020)**
 **March 31:**  
-The course material will update slightly due to the changed nature of how the course is being delivered.  All updates should be completed by Monday, April 6th, 2020 in preparation for the course to continue.
+* The course material will update slightly due to the changed nature of how the course is being delivered.  
+* All updates should be completed by Monday, April 6th, 2020 in preparation for the course to continue.
+
 ## Course information
 * [Course Outline](./Course-Overview)
 * [Overarching Learning Goals](./images/ICS3U.jpg)
 * [Due Dates and Submission Details](./Due-Dates-and-Submission-Details)
 * [Mr. Seidel's Intro Survey](https://goo.gl/forms/eWq7jPTqtYOku4S32) - requires your school Google account.
 * [Mr. Kowalczewski's Intro Survey](https://forms.gle/5jyrysTZoU4qdQ9Z7) - requires your school Google account.
-
-
 
 ## Assignments
 
