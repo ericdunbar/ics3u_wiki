@@ -2,52 +2,62 @@
 
 ## Task(s)
 
-### Task 1 (Research and Present)
+### Task 1 (Research and "Present")
 
-* Choose one of computer parts below, and in groups of 3-4 create a short 3-8 minute presentation.  Your presentation will include the topics/information below.
-* There will only be **one group per part category** on a **first-come-first-served basis**.
-* **_Groups/part-choice will not be chosen until the first lesson for this portion of the course_**
+* In pre-selected groups of 2-3, you are tasked with creating a slideshow presentation that would be equivalent to a 3-8 minute presentation (to help guide your thinking about quantity of content).  Your presentation will include the topics/information below.
+* Groups/part-choice will be given to your by your teacher.  Mr. Seidel's randomized groups/part-choice is below.
 
 #### Computer Parts
 
-* **Central Processing Unit**: Central (CPU)
-* **Video-Related Information**: Video/Graphics card and GPU
-* **Audio Processing Device**: Audio/Sound card
-* **Other Audio Devices**: Microphones, speakers
-* **Display Devices**: Monitors, projectors, virtual reality displays
-* **Daily Input Devices**: Keyboard, mouse, and touch screens
-* **Specialty Input Devices**: Scanners and drawing tablets
-* **Archival Devices**: Printers (2D & 3D) and tape storage
-* **Storage Devices**: Hard disk drives and solid state drives
-* **Other**: Motherboard, Random Access Memory
+1. **Central Processing Unit**: Central (CPU)
+2. **Video-Related Information**: Video/Graphics card and GPU
+3. **Audio Processing Device**: Audio/Sound card
+4. **Other Audio Devices**: Microphones, speakers
+5. **Display Devices**: Monitors, projectors, virtual reality displays
+6. **Daily Input Devices**: Keyboard, mouse, and touch screens
+7. **Specialty Input Devices**: Scanners and drawing tablets
+8. **Archival Devices**: Printers (2D & 3D) and tape storage
+9. **Storage Devices**: Hard disk drives and solid state drives
+10. **Other**: Motherboard, Random Access Memory
 
 #### Presentation Information
-
 You are to complete research on **at least** these questions, but you are expected to come up with your own research elements that you believe would be important:
 
 1. What is this computer part?
-2. Who invented the part, and what need did it fulfill?
-3. What other computer part(s) does your part connect to?
-4. What are the costs for the part (budget version, high end version, etc.)
-5. What are the pros/cons of purchasing a more expensive version of the part.
-6. What number system(s) is/are used by your part (Binary, Octal, Hexadecimal, ASCII, Unicode)
-7. Based on #6 above, give a quick/basic description of how the number system(s) works.
-8. What careers were involved in the creation of your particular hardware component(s)?
-
-#### Presentation Order
+2. Why was this part invented? What need did it fulfill?
+3. What other computer part(s) does your part connect to (excluding cables)?
+4. What careers were involved in the creation of your particular hardware component(s)?
+5. What are the costs for the part (budget version, an average version, and a high end version)
+6. What are the pros/cons of purchasing a more expensive version of the part.
 
 ##### Mr. Seidel's Group
-* To be determined.
+You will be given a blank Google Slides presentation to work on (this will be shared late April 5th).  Please check your email/shared documents in your @pdsb.net account for the file to work on for this.  It is a requirement that you use the Google Slides file that is shared with you as it will be used later on a website to give all of the information to all of you.
+
+Late April 5th, the information on this page will update with an actual listing of group members.
+
+| Computer Part(s) | Group Members |
+| ----- | ------------- |
+|   1   | 111111, 222222, 333333 |
+|   2   | 111111, 222222, 333333 |
+|   3   | 111111, 222222, 333333 |
+|   4   | 111111, 222222, 333333 |
+|   5   | 111111, 222222 |
+|   6   | 111111, 222222, 333333 |
+|   7   | 111111, 222222, 333333 |
+|   8   | No one |
+|   9   | 111111, 222222, 333333 |
+|   10  | 111111, 222222, 333333 |
+
 
 ##### Mr. Kowalczewski's Morning Group
-* To be determined.
+* _Communicate with Mr. Kowalczewski for more information_
 
 ##### Mr. Kowalczewski's Afternoon Group
-* To be determined.
+* _Communicate with Mr. Kowalczewski for more information_
 
 ### Task 2 (Individual Assessment)
 
-To assess your knowledge of computer hardware, there will be an individualized task for you to complete to show your understanding.
+To assess your knowledge of computer hardware, there will be an individualized task for you to complete to show your understanding.  This task will show up late in the day on April 8th.
 
 ## Due Dates and Submission Details
 
