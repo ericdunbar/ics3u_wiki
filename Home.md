@@ -1,6 +1,16 @@
 # Welcome to the ICS3U Course Page!
 
-## **UPDATES (last updated March 31, 2020)**
+## **UPDATES (last updated April 1, 2020)**
+**April 1:**
+* Email sent to all students - check your @pdsb.net emails.
+* Updated the _[Computer Hardware](./Computer-Hardware)_ assignment.  Will update again on April 5th.
+* Updated due dates for the following:
+  * _Computer Hardware (Shared Google Slide (Group-portion))_
+  * _Computer Hardware (Individual)_
+  * _Collaborative Emerging Technologies_ -- new date is tentative.  Will update later.
+  * _Python - Assignment 2_ -- new date is tentative.  Will update later.
+  * _Problem Solving and Algorithms_ -- due date removed for now.  Will update later.
+
 **March 31:**  
 * The course material will update slightly due to the changed nature of how the course is being delivered.  
 * All updates should be completed by Monday, April 6th, 2020 in preparation for the course to continue.
@@ -27,7 +37,7 @@ If you believe you can show your understanding of certain materials in another m
 * [Python - Assignment 2](./Python-Assignment-2) - needs updating
 
 #### &#x1F4D7; Digital Scholar
-* [Computer Hardware](./Computer-Hardware) - needs updating
+* [Computer Hardware](./Computer-Hardware) - individual portion needs updating
 * [Collaborative Emerging Technologies](./Collaborative-Emerging-Technologies) - needs updating
 
 
