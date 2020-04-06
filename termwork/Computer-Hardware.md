@@ -9,7 +9,7 @@
 
 #### Computer Parts
 
-1. **Central Processing Unit**: Central (CPU)
+1. **Central Processing Unit**: Central Processing Unit (CPU)
 2. **Video-Related Information**: Video/Graphics card and GPU
 3. **Audio Processing Device**: Audio/Sound card
 4. **Other Audio Devices**: Microphones, speakers
@@ -27,7 +27,7 @@ You are to complete research on **at least** these questions, but you are expect
 2. Why was this part invented? What need did it fulfill?
 3. What other computer part(s) does your part connect to (excluding cables)?
 4. What careers were involved in the creation of your particular hardware component(s)?
-5. What are the costs for the part (budget version, an average version, and a high end version)
+5. What are the costs for the part (budget version, an average version, and a high end version)?
 6. What are the pros/cons of purchasing a more expensive version of the part.
 
 ##### Mr. Seidel's Group
@@ -35,18 +35,18 @@ You will be given a blank Google Slides presentation to work on (this will be sh
 
 Late April 5th, the information on this page will update with an actual listing of group members.
 
-| Computer Part(s) | Group Members |
-| ----- | ------------- |
-|   1   | 111111, 222222, 333333 |
-|   2   | 111111, 222222, 333333 |
-|   3   | 111111, 222222, 333333 |
-|   4   | 111111, 222222, 333333 |
-|   5   | 111111, 222222 |
-|   6   | 111111, 222222, 333333 |
-|   7   | 111111, 222222, 333333 |
-|   8   | No one |
-|   9   | 111111, 222222, 333333 |
-|   10  | 111111, 222222, 333333 |
+| Computer Part(s) | Group Members          | Link to Google Slides      | 
+| ---------------- | ---------------------- | -------------------------- |
+|       1          | 627492, 813403, 624304 | [CPU][cpu]                 |
+|       2          | 965516, 955223, 877647 | [Video][video]             |
+|       3          | 631291, 899525, 625087 | [Audio/Sound][audio]       |
+|       4          | 626092, 625782, 925151 | [Mic/Speakers][mic]        |
+|       5          | 627758, 629204         | [Display][display]         |
+|       6          | 788276, 965640, 622044 | [Daily Input][daily]       |
+|       7          | 668041, 629727, 744017 | [Specialty Input][special] |
+|       8          | No one                 | [None](#)                  |
+|       9          | 792888, 909795, 627582 | [Storage Devices][storage] |
+|       10         | 689139, 949101, 621054 | [Motherboard/RAM][mobo]    |
 
 
 ##### Mr. Kowalczewski's Morning Group
@@ -62,3 +62,13 @@ To assess your knowledge of computer hardware, there will be an individualized t
 ## Due Dates and Submission Details
 
 Please see the [due dates](./Due-Dates-and-Submission-Details) page for more details on when this is due and how to submit your work.
+
+[cpu]: https://docs.google.com/presentation/d/1ywUmtRy94BR1KDfU1m6IWARt_boa-a28EoKs8-56wUs/edit?usp=sharing
+[video]: https://docs.google.com/presentation/d/1LlBYwht1eT0-fQF2GkyqO6jTcitXVsLPynTbPYatVWI/edit?usp=sharing
+[audio]: https://docs.google.com/presentation/d/1QGAnAD3AQwm0qegkkkHgY1UUm4U3j6seA6MtJlRqLUM/edit?usp=sharing
+[mic]: https://docs.google.com/presentation/d/1nYCIC779JDMAPca7KrLzV_X-Lorjbtg9d-MfNpmhpBg/edit?usp=sharing
+[display]: https://docs.google.com/presentation/d/1MxekLLeDTmSPsbFItZJEOWPMy-bBymX0EYg48D6CcHo/edit?usp=sharing
+[daily]: https://docs.google.com/presentation/d/1A4XO33LQSkmotnWMIIbJcW9xa3E3-Ad5sCQaGipwFOU/edit?usp=sharing
+[special]: https://docs.google.com/presentation/d/1mx8-wFnOcVi4mKdieWI5eFqWefD4TmNe7yy1Q8Cn37s/edit?usp=sharing
+[storage]: https://docs.google.com/presentation/d/15aVX9SG8FIFSh03VNkNBq6-XIvhCxQocLTxDlbVeEGc/edit?usp=sharing
+[mobo]: https://docs.google.com/presentation/d/1RwhPgV6MUuSxqgy7gfe56lmodKHt67VtCoUbx24DPng/edit?usp=sharing
