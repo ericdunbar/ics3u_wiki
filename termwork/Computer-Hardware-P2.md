@@ -45,7 +45,7 @@ Notes:
 * Any license or operating system purchases **must** be professional versions (e.g. not student versions, pirated, home versions, etc.).
 * All computers will need keyboard, mouse, monitor, etc. to make use of the machine.
 
-| Occupation | Budget | Component List |
+| Occupation | Budget | Component List (Full computer + below, unless noted) |
 | ---------- | ------ | -------------- |
 | Architect  | $4000 | 3D Printer + 1 year supply of printing materials <br/> 1 year subscription of AutoCAD (3D) |
 | Author | $750 | Scrivener <br/> Printer |

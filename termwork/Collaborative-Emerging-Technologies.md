@@ -15,7 +15,7 @@ For example, if someone were to choose _Speech Recognition_ as their emerging te
 Once you have chosen your collaborative field, you will need to identify a non-traditional career within the collaborative field.  In this context, non-traditional career means: _a career that does not exist yet, or one that will radically change due to the emerging technology_.
 
 ### Task 3 (Presentation)
-After completing _Task 1_ and _Task 2_ above, you are to create a presentation (in any format of your choosing) that includes **at least** the following:
+After completing _Task 1_ and _Task 2_ above, you are to create a presentation (**NEW:** in either a Google Slides or PowerPoint style) that includes **at least** the following:
 * Describe your emerging technology choice, in depth.  For example, includes how it works, what it's used for, etc.
 * Discuss the impacts (+ and -) of the emerging technology on society.
 * Detail 2-4 ethical concerns of the use (or development) of the emerging technology.
@@ -28,10 +28,22 @@ Cite your work using APA, MLA, or Chicago format (whichever one you want).
 Cite all images used.  You can use just hyperlinks for the citing of **images**.
 
 ## Due Dates and Submission Details
-You will have a one-on-one interview with the teacher in which you present your information directly to the teacher.
-Be prepared to discuss your work and present-to-the-teacher the information that you have found.  Be prepared to answer many questions, and ensure understanding of all acronyms you use in your presentation.
+~~You will have a one-on-one interview with the teacher in which you present your information directly to the teacher.~~
+~~Be prepared to discuss your work and present-to-the-teacher the information that you have found.  Be prepared to answer many questions, and ensure understanding of all acronyms you use in your presentation.~~
 
-For Mr. Seidel's class, plan for a **maximum** of 15 minutes of presentation time + 5 minutes of question/answer time.  Each presentation is only allotted 20 minutes in total.
+~~For Mr. Seidel's class, plan for a **maximum** of 15 minutes of presentation time + 5 minutes of question/answer time.  Each presentation is only allotted 20 minutes in total.~~
+
+**NEW (for Mr. Seidel's classes):** Submission for this assignment has changed as per below (choose one)
+
+* Using your @pdsb.net account:
+  * Create a Google Slides (or other online option) presentation. 
+  * Create an audio recording for each of the slides.
+  * For each slide, attach the audio recording (Insert -> Audio)
+  * Your total audio timing should be between 10-15 minutes.
+  * Share the Google Slideshow with me so that I can access and assess it.
+* Or, you can do something similar with a PowerPoint presentation and add Audio clips to that as well and submit through email.
+
+You will be sent follow-up questions based on your presentation to answer.
 
 Please see the [due dates](./Due-Dates-and-Submission-Details) page for more details on when this is due and how to submit your work.
 
