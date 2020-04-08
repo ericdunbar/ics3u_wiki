@@ -1,6 +1,15 @@
 # Welcome to the ICS3U Course Page!
 
-## **UPDATES (last updated April 5, 2020)**
+## **UPDATES (last updated April 8, 2020)**
+**April 8:**
+* Email sent to all students - check your @pdsb.net emails.
+* Added _[Computer Hardware - Part 2 (Individual portion)](./Computer-Hardware-P2)_ to the website.
+* Updated _[Computer Hardware](./Computer-Hardware)_ to link to the new assignment.
+* Updated _[Collaborative Emerging Technologies](./Collaborative-Emerging-Technologies)_ with alternate submission methods.
+* Finalized due dates for:
+  * _Python - Assignment 2_
+  * _Collaborative Emerging Technology_ 
+
 **April 5:**
 * Updated submission method (for Mr. Seidel's class) for _[Collaborative Emerging Technologies](./Collaborative-Emerging-Technologies)_
 * Updated _[Computer Hardware](./Computer-Hardware)_ assignment by assigning groups (randomly using [random.org](https://www.random.org/lists)).  Notifications sent to @pdsb.net accounts.  You can access the links in the Computer Hardware assignment page.
@@ -44,7 +53,8 @@ If you believe you can show your understanding of certain materials in another m
 * [Python - Assignment 2](./Python-Assignment-2) - needs updating
 
 #### &#x1F4D7; Digital Scholar
-* [Computer Hardware](./Computer-Hardware) - individual portion needs updating
+* [Computer Hardware](./Computer-Hardware)
+  * [Part 2 available here](./Computer-Hardware-P2)
 * [Collaborative Emerging Technologies](./Collaborative-Emerging-Technologies)
 
 

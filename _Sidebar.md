@@ -18,7 +18,8 @@ Keep an eye on the [main page](./Home) of this Wiki for course updates.
 * [Python - Assignment 2](./Python-Assignment-2)
 
 #### &#x1F4D7; Digital Scholar
-* [Computer Hardware](./Computer-Hardware)
+* [Computer Hardware (Part 1)](./Computer-Hardware)
+  * [Part 2 available here](./Computer-Hardware-P2)
 * [Collaborative Emerging Technologies](./Collaborative-Emerging-Technologies)
 
 ## Notes 

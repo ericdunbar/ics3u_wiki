@@ -41,6 +41,8 @@ Cite all images used.  You can use just hyperlinks for the citing of **images**.
   * For each slide, attach the audio recording (Insert -> Audio)
   * Your total audio timing should be between 10-15 minutes.
   * Share the Google Slideshow with me so that I can access and assess it.
+* Or, if the above doesn't work, you can always place all your audio files in a single folder, share that folder with me, and name your files "Slide 1", "Slide 2", etc. so that I can identify which audio file goes with which slide.
+* Or, if the above doesn't work, you can create a single audio file, and say "Slide 1", "Slide 2", within the actual audio portion.
 * Or, you can do something similar with a PowerPoint presentation and add Audio clips to that as well and submit through email.
 
 You will be sent follow-up questions based on your presentation to answer.

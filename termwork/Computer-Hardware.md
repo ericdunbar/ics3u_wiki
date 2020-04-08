@@ -59,6 +59,8 @@ Late April 5th, the information on this page will update with an actual listing 
 
 To assess your knowledge of computer hardware, there will be an individualized task for you to complete to show your understanding.  This task will show up late in the day on April 8th.
 
+You can access the individual portion of this project [here](./Computer-Hardware-P2)
+
 ## Due Dates and Submission Details
 
 Please see the [due dates](./Due-Dates-and-Submission-Details) page for more details on when this is due and how to submit your work.

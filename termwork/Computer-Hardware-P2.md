@@ -2,14 +2,14 @@
 
 This is Part 2 of the [Hardware](./Computer-Hardware.md) project - you are to use the information gathered previously to help you with this project.
 
-For those in Mr. Seidel's class, you can access everyone's slideshow work on this [Google Site]().  Note: all names have been removed for privacy purposes.
+For those in Mr. Seidel's class, you can access everyone's slideshow work on this [Google Site]().
 
 ### Task 1 (Choose Occupation)
 From the list of allowed occupations below, you will be given an occupation/budget that aligns with careers after high school.  The choices have been randomized (per random.org/lists) for Mr. Seidel's class.
 
-### Task 2 (Two-Page Report, or equivalent)
+### Task 2 (Three-Page Report, or equivalent)
 
-#### Part 1 (Computer Build)
+#### Part 1 (Computer Build (max 2 pages))
 
 You are a new-hire for a company (or are starting your own business) and you need to buy the best computer that you can with the funding provided.  You are required to:
 * Purchase individual computer parts (no laptops, or all-in-one purchases), as well as any specific pieces of technology (as noted in the section following the occupation tables) for your occupation.  
@@ -18,7 +18,7 @@ You are a new-hire for a company (or are starting your own business) and you nee
 	* The budget given is in Canadian dollars.
 	* Take into account shipping (to the school), 
 	* Assume you must pay HST on all purchases,  
-	* If you are shipping something from out of country, you will also have to figure out how to deal with customs, tariffs, and converting to Canadian dollars.
+	* If you are shipping something from out of country, you will also have to figure out how to deal with customs, tariffs, and converting to Canadian mdollars.
 	* All items must be new purchases (no Kijiji or used items)
 
 For this section, you are going to want to submit the parts, a link to where you bought them, the price point, and why you chose that particular part over others.  For the explanations:
@@ -39,7 +39,7 @@ Below is an example of what we are looking for if, for example, you were able to
 When describing why you chose a particular part, you cannot just say "It was the cheapest". There are many "cheap parts", why did you pick this one in particular?
 
 
-#### Part 2 (Environmental Impacts)
+#### Part 2 (Environmental Impacts (max 1 page))
 Now that you have purchased your computer system, it is time to reflect on a few items.  Keeping the context of **your career** in mind, describe:
 * The negative effects of creating the computer **hardware**, and
 * The negative effects of computer **hardware** after it has been deemed "unusable".
