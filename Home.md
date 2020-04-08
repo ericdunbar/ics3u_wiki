@@ -1,8 +1,8 @@
 # Welcome to the ICS3U Course Page!
 
-## **UPDATES (last updated April 8, 2020)**
-**April 8:**
-* Email sent to all students - check your @pdsb.net emails.
+## **UPDATES (last updated April 9, 2020)**
+**April 9:**
+* Email sent to all students (April 8) - check your @pdsb.net emails.
 * Added _[Computer Hardware - Part 2 (Individual portion)](./Computer-Hardware-P2)_ to the website.
 * Updated _[Computer Hardware](./Computer-Hardware)_ to link to the new assignment.
 * Updated _[Collaborative Emerging Technologies](./Collaborative-Emerging-Technologies)_ with alternate submission methods.
