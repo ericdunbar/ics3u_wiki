@@ -9,7 +9,7 @@ From the list of allowed occupations below, you will be given an occupation/budg
 
 ### Task 2 (Two-Page Report, or equivalent)
 
-#### Page 1 (Computer Build)
+#### Part 1 (Computer Build)
 
 You are a new-hire for a company (or are starting your own business) and you need to buy the best computer that you can with the funding provided.  You are required to:
 * Purchase individual computer parts (no laptops, or all-in-one purchases), as well as any specific pieces of technology (as noted in the section following the occupation tables) for your occupation.  
@@ -39,7 +39,7 @@ Below is an example of what we are looking for if, for example, you were able to
 When describing why you chose a particular part, you cannot just say "It was the cheapest". There are many "cheap parts", why did you pick this one in particular?
 
 
-#### Page 2 (Environmental Impacts)
+#### Part 2 (Environmental Impacts)
 Now that you have purchased your computer system, it is time to reflect on a few items.  Keeping the context of **your career** in mind, describe:
 * The negative effects of creating the computer **hardware**, and
 * The negative effects of computer **hardware** after it has been deemed "unusable".
