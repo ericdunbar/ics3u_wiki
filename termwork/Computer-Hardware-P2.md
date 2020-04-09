@@ -1,3 +1,5 @@
+# &#x1F4D7; Computer Hardware - Part 2
+
 ## Task(s)
 
 This is Part 2 of the [Hardware](./Computer-Hardware.md) project - you are to use the information gathered previously to help you with this project.
