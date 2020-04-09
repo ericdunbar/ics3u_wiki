@@ -73,7 +73,7 @@ Below is a table of particular components that are required for your occupation 
 | 621054 | Baker | $900 | Printer |
 | 631291 | Cabinetmaker | $3700 | SketchUp Pro license <br/> Printer (can print 13" wide, not just long) |
 | 965640 | Chef | $900 | Wax Printer |
-| 624209 | Coach (hockey) | $500 | Must have a touch-screen |
+| 629204 | Coach (hockey) | $500 | Must have a touch-screen |
 | 813402 | Dentist | $1450 | Printer <br/> Scanner |
 | 788276 | Dietitian | $1200 | Printer |
 | 627758 | Electrician | $2000 | Printer (can print 13" wide, not just long) | 
