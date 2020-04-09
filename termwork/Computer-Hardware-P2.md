@@ -2,7 +2,7 @@
 
 This is Part 2 of the [Hardware](./Computer-Hardware.md) project - you are to use the information gathered previously to help you with this project.
 
-For those in Mr. Seidel's class, you can access everyone's slideshow work on this [Google Site]().
+For those in Mr. Seidel's class, you can access everyone's slideshow work on this [Google Site](https://sites.google.com/pdsb.net/mrseidel-computer-hardware).
 
 ### Task 1 (Choose Occupation)
 From the list of allowed occupations below, you will be given an occupation/budget that aligns with careers after high school.  The choices have been randomized (per random.org/lists) for Mr. Seidel's class.
