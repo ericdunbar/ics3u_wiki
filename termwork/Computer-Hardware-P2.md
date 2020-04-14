@@ -73,7 +73,7 @@ Below is a table of particular components that are required for your occupation 
 | 621054 | Baker | $900 | Printer |
 | 631291 | Cabinetmaker | $3700 | SketchUp Pro license <br/> Printer (can print 13" wide, not just long) |
 | 965640 | Chef | $900 | Wax Printer |
-| 624209 | Coach (hockey) | $500 | Must have a touch-screen |
+| 629204 | Coach (hockey) | $500 | Must have a touch-screen |
 | 813402 | Dentist | $1450 | Printer <br/> Scanner |
 | 788276 | Dietitian | $1200 | Printer |
 | 627758 | Electrician | $2000 | Printer (can print 13" wide, not just long) | 
@@ -82,7 +82,7 @@ Below is a table of particular components that are required for your occupation 
 | 909795 | Fishing Vessel Operator | $1500 | Fish Finder |
 | 000000 | Graphic Designer | $2500 | Printer <br/> Wacom Tablet (minimum Large) |
 | 625782 | Hotel Front Desk Clerk | $800 | Printer |
-| 877647 | Interior Designer | $2900 | 1 year subscription to AutoCAD (3D) <br/> Printer (can print 13" wide, not just long)  |
+| 877647 | Interior Designer | $3500 | 1 year subscription to AutoCAD (3D) <br/> Printer (can print 13" wide, not just long)  |
 | 965516 | Librarian | $1250 | Printer |
 | 668041 | Meteorologist | $1000 | Arduino with external temperature guage equipment |
 | 627492 | Photographer | $5500 | Professional level camera (can do 4k video) <br/> 2 Professional level lenses (non-portrait) <br/> Printer (can print 13" wide, not just long) |
