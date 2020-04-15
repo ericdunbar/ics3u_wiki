@@ -1,11 +1,17 @@
 # Welcome to the ICS3U Course Page!
 
-## **UPDATES (last updated April 14, 2020)**
+## **UPDATES (last updated April 15, 2020)**
 _When these updates mention emails or "you"/"your", this is referring to Mr. Seidel's students.  If you are in Mr. Kowalczewski's class, you might receive different information through the communication channel(s) he has set up._
+
+**April 15:**
+* Updated **some** [_Software Development Life Cycle_](./SDLC) information in **some** feedback forms.
+* Updated [_Computer Hardware and Environmental Stewardship (Part 2)_](./Computer-Hardware-P2)
+  * Reworded and reformatted assignment for clarity
+  * Added exemplars for what the final product **could** look like.
 
 **April 14:**
 * Email sent to all students - check your @pdsb.net emails.
-* Assessment for your updated [Software Development Life Cycle](./SDLC) and for [Python - Assignment 1](./Python-Assignment-1) should start taking place later this week.  Your Feedback Forms will be updated accordingly.  If you have questions about your feedback, please add a comment to the document and I will respond when possible.
+* Assessment for your updated [_Software Development Life Cycle_](./SDLC) and for [_Python - Assignment 1_](./Python-Assignment-1) should start taking place later this week.  Your Feedback Forms will be updated accordingly.  If you have questions about your feedback, please add a comment to the document and I will respond when possible.
 
 **April 9:**
 * Email sent to all students (April 8) - check your @pdsb.net emails.
