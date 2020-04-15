@@ -60,6 +60,10 @@ Now that you have purchased your computer system, it is time to reflect on a few
 * What possible solutions people in your career would have to reduce the impact of computers on the environment?
 * What municipal (can use either Peel or Toronto here), provincial, and national government agencies and community partners exist, within your career, that provide resources and guidance for environmental stewardship (i.e. recycling programs.
 
+##### Exemplars
+Here are two exemplars on formatting that you **_could_** use (feel free to use your own formatting).
+* [CHES - Exemplar 1](http://mrseidel.com/exemplars/CHES_Exemplar1.pdf)
+* [CHES - Exemplar 2](http://mrseidel.com/exemplars/CHES_Exemplar2.pdf)
 
 ### Task 3 (Submission/Discussion)
 
