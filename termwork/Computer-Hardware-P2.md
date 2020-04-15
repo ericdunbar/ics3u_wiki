@@ -6,15 +6,16 @@ This is Part 2 of the [Hardware](./Computer-Hardware.md) project - you are to us
 
 For those in Mr. Seidel's class, you can access everyone's slideshow work on this [Google Site](https://sites.google.com/pdsb.net/mrseidel-computer-hardware).
 
-### Task 1 (Choose Occupation)
+### Task 1 (Occupation)
 From the list of allowed occupations below, you will be given an occupation/budget that aligns with careers after high school.  The choices have been randomized (per random.org/lists) for Mr. Seidel's class.
 
 ### Task 2 (Three-Page Report, or equivalent)
 
 #### Part 1 (Computer Build (max 2 pages))
 
+##### Description
 You are a new-hire for a company (or are starting your own business) and you need to buy the best computer that you can with the funding provided.  You are required to:
-* Purchase individual computer parts (no laptops, or all-in-one purchases), as well as any specific pieces of technology (as noted in the section following the occupation tables) for your occupation.  
+* Build a whole computer by purchasing individual computer parts (no laptops, or all-in-one purchases), as well as any specific pieces of technology for your occupation as noted in occupation table.  
   * To help you with this task, there is an [online site](https://ca.pcpartpicker.com/) that can guide you with the main purchases of the computer.  
 * Stay **below** the budget given in the occupation you chose.
 	* The budget given is in Canadian dollars.
@@ -23,12 +24,21 @@ You are a new-hire for a company (or are starting your own business) and you nee
 	* If you are shipping something from out of country, you will also have to figure out how to deal with customs, tariffs, and converting to Canadian mdollars.
 	* All items must be new purchases (no Kijiji or used items)
 
-For this section, you are going to want to submit the parts, a link to where you bought them, the price point, and why you chose that particular part over others.  For the explanations:
+##### What to include
+For this section, you are going to want to submit:
+* The parts, 
+* A link to where you bought the items, 
+* The price of the item, and 
+* Why you chose that particular part over others (see Description section below)
 
--	Choose the top 3 most important components for your career from this list: **CPU, Memory (RAM), Motherboard, Video Card, and Storage**
--	For each of those components, list the top 3 most important specifications
--	For each of those specifications describe first what it means, and why it is important for your career
--	Outside of your top 3, a short 2-3 sentence explanation for each part will be fine.
+##### Description (including example)
+For the "why you chose this part" section, you are to include:
+* A short 2-3 sentence explanation for each part, unless they're your top 3 (see next point).
+* Choose the top 3 most important components for your career from this list: **CPU, Memory (RAM), Motherboard, Video Card, and Storage**.  For each of these:
+  * List the top 3 most important specifications
+  * For each specification describe:
+    * What it means, and 
+    * Why it is important for your career
 
 Below is an example of what we are looking for if, for example, you were able to talk about the monitor for a Graphic Designer (a monitor is not in the list "top 3 of ..." list above).
 
