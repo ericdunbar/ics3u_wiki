@@ -1,7 +1,10 @@
 # Welcome to the ICS3U Course Page!
 
-## **UPDATES (last updated April 15, 2020)**
+## **UPDATES (last updated April 20, 2020)**
 _When these updates mention emails or "you"/"your", this is referring to Mr. Seidel's students.  If you are in Mr. Kowalczewski's class, you might receive different information through the communication channel(s) he has set up._
+
+**April 20:**
+* Email sent to all students - check your @pdsb.net emails.
 
 **April 15:**
 * Updated **some** [_Software Development Life Cycle_](./SDLC) information in **some** feedback forms.
